@@ -104,6 +104,7 @@
     display: flex;
     justify-content: space-around;
     margin-top: 160px;
+    margin-bottom: 160px;
 }
 
 .left-message-container {
@@ -229,6 +230,7 @@
     padding: 25px;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 60px;
 }
 
 .left-message-container2 {
@@ -349,6 +351,7 @@
 .creator-followers {
     color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
 }
 
 .creator-tags {
@@ -772,7 +775,7 @@ ul .active {
 .creator-list-followers {
     color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .creator-list-tags {
