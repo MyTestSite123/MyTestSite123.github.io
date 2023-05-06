@@ -895,12 +895,19 @@ ul .active {
     flex-direction: column;
     margin-top: 50px;
     padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
 }
 
 .inquiries {
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
+}
+
+.our-twitter-link {
+    text-decoration: none;
+    margin-top: 10px;
 }
 
 .fa-twitter {
